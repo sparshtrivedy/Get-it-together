@@ -16,9 +16,10 @@ const Landing = () => {
                     task <span>tracking</span> app
                 </h1>
                 <p>
-                    Tousled small batch microdosing bespoke health goth craft beer ramps keffiyeh activated charcoal vape cronut. Etsy vibecession DSA, 
-                    pork belly poutine hell of quinoa bicycle rights polaroid plaid palo santo art party gochujang selvage fingerstache. Iceland truffaut 
-                    tumeric cronut sustainable tonx, PBR&B JOMO shabby chic marfa. Grailed williamsburg XOXO mumblecore pok pok vinyl.
+                Welcome to our task tracking app! Keeping track of all your daily tasks can be overwhelming, 
+                but our app makes it easy to manage everything in one place. With our simple and intuitive interface, 
+                you can create tasks, set due dates, and assign status to stay organized and focused.
+                Sign up now and start organizing your tasks like a pro!
                 </p>
                 <Link to="/register" className='btn btn-hero'>
                     Login/Register
